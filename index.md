@@ -11,3 +11,7 @@
 ``` python
 printf("Hello World, adding code")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
