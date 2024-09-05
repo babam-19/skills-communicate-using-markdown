@@ -6,3 +6,8 @@
 ###### This is another header (6)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` python
+printf("Hello World, adding code")
+```
